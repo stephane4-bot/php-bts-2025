@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en">git
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -14,9 +14,11 @@
     
     <a href="01datatype.php">les types de donnees en php</a> 
      <br> <br>
+     <a href="operations arithmetiques">les operations arithmetiques</a>
     
     <?php
     // les type de donnees en php
+
     ?>
 </body>
 </html>
